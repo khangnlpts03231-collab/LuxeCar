@@ -1,0 +1,11 @@
+target/
+*.class
+*.war
+.project
+.classpath
+.settings/
+.metadata/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
